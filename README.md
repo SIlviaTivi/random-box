@@ -1,1 +1,1 @@
-![project](1.PNG)
+![project](public/1.png)
